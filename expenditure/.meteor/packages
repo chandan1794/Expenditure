@@ -21,5 +21,5 @@ autopublish@1.0.7             # Publish all data to the clients (for prototyping
 insecure@1.0.7                # Allow all DB writes from clients (for prototyping)
 twbs:bootstrap
 fortawesome:fontawesome
-iron:router
 aldeed:simple-schema
+kadira:flow-router
