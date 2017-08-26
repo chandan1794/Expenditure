@@ -4,3 +4,4 @@ import { BlazeLayout } from 'meteor/kadira:blaze-layout';
 
 import '../imports/ui/layouts/homeLayout.html';
 import '../imports/ui/components/home.js';
+import '../imports/ui/components/header/header.js';
